@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MyAndroid3</string>
+    <string name="tvTest">1行目\n2行目</string>
+    <string name="etText">TEXT</string>
+    <string name="etNumber">123</string>
+    <string name="btTest">Test</string>
+    <string name="swTest">スイッチ</string>
+    <string name="cbTest">チェック</string>
+    <string name="rbTest1">1年</string>
+    <string name="rbTest2">2年</string>
+    <string-array name="lvTest">
+        <item>IoT</item>
+        <item>AI</item>
+        <item>Robot</item>
+    </string-array>
+</resources>
